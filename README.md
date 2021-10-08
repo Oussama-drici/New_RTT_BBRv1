@@ -9,6 +9,14 @@ link is not perfectly utilized in this processing time, we have suggested to add
 in the calculation of the minimum round-trip time or as it's called the RTprop to get
 more improvement in throughput.
 
+#Instructions:
+
+How to Run:
+
+Just compile and install is as a module. Change the default Congestion Algorithm to "NR_BBRv1"
+
+Above development was based on the MPTCP v0.95.0 deployed in Linux kernel version of v4.19.206 
+
 Regards,
 
 Computer Systems Enginner Drici Oussama.
