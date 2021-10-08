@@ -8,3 +8,9 @@ to process the next data that it want to send, after that the data is transmitte
 link is not perfectly utilized in this processing time, we have suggested to adds this time
 in the calculation of the minimum round-trip time or as it's called the RTprop to get
 more improvement in throughput.
+
+Regards,
+
+Computer Systems Enginner Drici Oussama.
+
+For any information contact me at o.drici@esi-sba.dz
